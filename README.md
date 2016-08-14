@@ -1,3 +1,7 @@
+# NecroBot-v0.8.5
+NecroBot v0.8.5 (GUI &amp; source)
+Pokemon GO Necrobot new version 0.8.5 working well 
+
 <p align="center">
   <a href="http://necrobot.io">
     <img alt="Logo" src="http://necrobot.io/img/typotype-transparent.png" width="600">
@@ -72,3 +76,5 @@ Using the Project might be against the TOS
 Inquiries: contact@necrobot.io
 
 <hr/>
+
+
